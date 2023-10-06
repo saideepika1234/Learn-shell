@@ -11,3 +11,9 @@ echo -e "\e[31mRED COLOR"
 echo Normal Text
 bash echo.sh
 echo -e "\e[31mRED COLOR\e[0m"
+
+#To print the lines in new line
+echo -e "line1\n line2\n line3\n"
+
+#To print the words with tab space
+echo -e "word1\t word2\t word3"
